@@ -1,0 +1,9 @@
+load Aerofolio67.dat
+OPER
+v
+
+re 20000
+m 0.01
+iter 100
+a 0
+CPWR CP67.txt 
